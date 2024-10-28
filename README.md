@@ -51,4 +51,4 @@ Raw file -- https://github.com/MuhammedYaseen786/Adventure-Sales-Analysis/blob/m
     *   Geographical slicers to filter by country.
 
 
-https://github.com/MuhammedYaseen786/Adventure-Sales-Analysis/blob/main/Static%20Dashboard%20Statement.png
+![Adventure-Sales-Analysis](https://github.com/MuhammedYaseen786/Adventure-Sales-Analysis/blob/main/Static%20Dashboard%20Statement.png)
