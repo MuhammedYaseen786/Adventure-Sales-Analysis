@@ -54,7 +54,11 @@ Raw file -- https://github.com/MuhammedYaseen786/Adventure-Sales-Analysis/blob/m
 **TimeSeries DashBoard:**
 
 
+
+
 ![Adventure-Sales-Analysis](https://github.com/MuhammedYaseen786/Adventure-Sales-Analysis/blob/main/Static%20Dashboard%20Statement.png)
+
+
 
 
 **Detailed Analysis:**
@@ -76,6 +80,8 @@ Raw file -- https://github.com/MuhammedYaseen786/Adventure-Sales-Analysis/blob/m
 
 
 **Product and Customer Dashboard:**
+
+
 
 
 ![Adventure-Sales-Analysis](https://github.com/MuhammedYaseen786/Adventure-Sales-Analysis/blob/main/Static%20Dashboard%20Statement-2.png)
